@@ -1,1 +1,1 @@
-# Automatic-Brightness-controller
+# Automatic-Brightness-Controller
